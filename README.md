@@ -32,9 +32,10 @@ Just trying to figure out a reading list. You can provide suggestions here.
 
 
 11. Ikigai: The Japanese secret to a long and happy life [Hardcover] García, Héctor and Miralles, Francesc <br>
-
+[Ikigai _ the Japanese secret to a long and happy life ( PDFDrive ).pdf](https://github.com/mattoorahul/Reading-List/files/10922329/Ikigai._.the.Japanese.secret.to.a.long.and.happy.life.PDFDrive.pdf)
 
 12. The Psychology of Money <br>
+[the-psychology-of-money-by-morgan-housel.pdf](https://github.com/mattoorahul/Reading-List/files/10922357/the-psychology-of-money-by-morgan-housel.pdf)
 
 
 
