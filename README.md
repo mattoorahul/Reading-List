@@ -19,5 +19,7 @@ Just trying to figure out a reading list. You can provide suggestions here.
 6. Man's Search For Meaning: The classic tribute to hope from the Holocaust Frankl, Viktor E <br>
 [Man's Search For Meaning.pdf](https://github.com/mattoorahul/Reading-List/files/10922065/Man.s.Search.For.Meaning.pdf)
 
-7. 
+7. Think and Grow Rich (PREMIUM PAPERBACK, PENGUIN INDIA) <br>
+[Think-And-Grow-Rich_2011-06.pdf](https://github.com/mattoorahul/Reading-List/files/10922080/Think-And-Grow-Rich_2011-06.pdf)
+
 
