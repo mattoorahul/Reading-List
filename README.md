@@ -16,5 +16,8 @@ Just trying to figure out a reading list. You can provide suggestions here.
 5. EGO IS THE ENEMY_ the fight to master <br>
 [Ryan_Holiday_Ego_is_the_Enenmyz-lib.org_.pdf](https://github.com/mattoorahul/Reading-List/files/10921982/Ryan_Holiday_Ego_is_the_Enenmyz-lib.org_.pdf)
 
-6. 
+6. Man's Search For Meaning: The classic tribute to hope from the Holocaust Frankl, Viktor E <br>
+[Man's Search For Meaning.pdf](https://github.com/mattoorahul/Reading-List/files/10922065/Man.s.Search.For.Meaning.pdf)
+
+7. 
 
