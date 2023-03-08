@@ -10,5 +10,11 @@ Just trying to figure out a reading list. You can provide suggestions here.
 3. The Alchemist <br>
 [_OceanofPDF.com_The_Alchemist.pdf](https://github.com/mattoorahul/Reading-List/files/10921933/_OceanofPDF.com_The_Alchemist.pdf)
 
-4. 
+4. Atomic Habits: The life-changing million copy bestseller [Paperback] James Clear <br>
+[Atomic-Habits.pdf](https://github.com/mattoorahul/Reading-List/files/10921970/Atomic-Habits.pdf)
+
+5. EGO IS THE ENEMY_ the fight to master <br>
+[Ryan_Holiday_Ego_is_the_Enenmyz-lib.org_.pdf](https://github.com/mattoorahul/Reading-List/files/10921982/Ryan_Holiday_Ego_is_the_Enenmyz-lib.org_.pdf)
+
+6. 
 
