@@ -23,7 +23,7 @@ Just trying to figure out a reading list. You can provide suggestions here.
 [Think-And-Grow-Rich_2011-06.pdf](https://github.com/mattoorahul/Reading-List/files/10922080/Think-And-Grow-Rich_2011-06.pdf)
 
 8. Think Again: The Power of Knowing What You Don't Know <br>
-
+[Think Again_ The Power of Knowing What You Don't Know.pdf](https://github.com/mattoorahul/Reading-List/files/10949005/Think.Again_.The.Power.of.Knowing.What.You.Don.t.Know.pdf)
 
 9. Attitude Is Everything: Change Your Attitude ... Change Your Life! <br>
 
