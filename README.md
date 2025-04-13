@@ -28,7 +28,7 @@ Must Read 6. Man's Search For Meaning: The classic tribute to hope from the Holo
 9. Attitude Is Everything: Change Your Attitude ... Change Your Life! <br>
 [Attitude is Everything  ( PDFDrive ).pdf](https://github.com/mattoorahul/Reading-List/files/10949008/Attitude.is.Everything.PDFDrive.pdf)
 
-10. Thinking, Fast and Slow (Penguin Press Non-Fiction) [Paperback] Daniel Kahneman <br>
+Must Read 10. Thinking, Fast and Slow (Penguin Press Non-Fiction) [Paperback] Daniel Kahneman <br>
 [Thinking, Fast and Slow ( PDFDrive ).pdf](https://github.com/mattoorahul/Reading-List/files/10949015/Thinking.Fast.and.Slow.PDFDrive.pdf)
 
 11. Ikigai: The Japanese secret to a long and happy life [Hardcover] García, Héctor and Miralles, Francesc <br>
