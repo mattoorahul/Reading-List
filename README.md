@@ -37,5 +37,12 @@ Must Read 10. Thinking, Fast and Slow (Penguin Press Non-Fiction) [Paperback] Da
 12. The Psychology of Money <br>
 [the-psychology-of-money-by-morgan-housel.pdf](https://github.com/mattoorahul/Reading-List/files/10922357/the-psychology-of-money-by-morgan-housel.pdf)
 
+Must Read 13. The 7 Habits of Highly Effective People – Stephen R. Covey <br>
+[Covey - The 7 habits of highly effective people.pdf](https://github.com/user-attachments/files/19722747/Covey.-.The.7.habits.of.highly.effective.people.pdf)
+
+Must Read 14. Rich Dad Poor Dad – Robert Kiyosaki <br>
+[Rich Dad Poor Dad.pdf](https://github.com/user-attachments/files/19722749/Rich.Dad.Poor.Dad.pdf)
+
+
 
 
