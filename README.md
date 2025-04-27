@@ -4,19 +4,19 @@ Just trying to figure out a reading list. You can provide suggestions here.
 1. The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life <br>
 [The Subtle Art of Not Giving a Fck A Counterintuitive Approach to Living a Good Life by Mark Manson (z-lib.org).pdf](https://github.com/mattoorahul/Reading-List/files/10921806/The.Subtle.Art.of.Not.Giving.a.Fck.A.Counterintuitive.Approach.to.Living.a.Good.Life.by.Mark.Manson.z-lib.org.pdf)
 
-2. DEEP WORK: RULES FOR FOCUSED SUCCESS IN A DISTRACTED WORLD    [Must Read]<br>
+2. DEEP WORK: RULES FOR FOCUSED SUCCESS IN A DISTRACTED WORLD    **[Must Read]**<br>
 [Deep Work Rules for Focused Success ( PDFDrive ).pdf](https://github.com/mattoorahul/Reading-List/files/10921883/Deep.Work.Rules.for.Focused.Success.PDFDrive.pdf)
 
 3. The Alchemist <br>
 [_OceanofPDF.com_The_Alchemist.pdf](https://github.com/mattoorahul/Reading-List/files/10921933/_OceanofPDF.com_The_Alchemist.pdf)
 
-4. Atomic Habits: The life-changing million copy bestseller [Paperback] James Clear    [Must Read]<br>
+4. Atomic Habits: The life-changing million copy bestseller [Paperback] James Clear    **[Must Read]**<br>
 [Atomic-Habits.pdf](https://github.com/mattoorahul/Reading-List/files/10921970/Atomic-Habits.pdf)
 
 5. EGO IS THE ENEMY_ the fight to master <br>
 [Ryan_Holiday_Ego_is_the_Enenmyz-lib.org_.pdf](https://github.com/mattoorahul/Reading-List/files/10921982/Ryan_Holiday_Ego_is_the_Enenmyz-lib.org_.pdf)
  
-6. Man's Search For Meaning: The classic tribute to hope from the Holocaust Frankl, Viktor E   [Must Read]<br>
+6. Man's Search For Meaning: The classic tribute to hope from the Holocaust Frankl, Viktor E   **[Must Read]**<br>
 [Man's Search For Meaning.pdf](https://github.com/mattoorahul/Reading-List/files/10922065/Man.s.Search.For.Meaning.pdf)
 
 7. Think and Grow Rich (PREMIUM PAPERBACK, PENGUIN INDIA) <br>
@@ -28,19 +28,19 @@ Just trying to figure out a reading list. You can provide suggestions here.
 9. Attitude Is Everything: Change Your Attitude ... Change Your Life! <br>
 [Attitude is Everything  ( PDFDrive ).pdf](https://github.com/mattoorahul/Reading-List/files/10949008/Attitude.is.Everything.PDFDrive.pdf)
 
-10. Thinking, Fast and Slow (Penguin Press Non-Fiction) [Paperback] Daniel Kahneman    [Must Read]<br>
+10. Thinking, Fast and Slow (Penguin Press Non-Fiction) [Paperback] Daniel Kahneman    **[Must Read]**<br>
 [Thinking, Fast and Slow ( PDFDrive ).pdf](https://github.com/mattoorahul/Reading-List/files/10949015/Thinking.Fast.and.Slow.PDFDrive.pdf)
 
-11. Ikigai: The Japanese secret to a long and happy life [Hardcover] García, Héctor and Miralles, Francesc    [Must Read]<br>
+11. Ikigai: The Japanese secret to a long and happy life [Hardcover] García, Héctor and Miralles, Francesc    **[Must Read]**<br>
 [Ikigai _ the Japanese secret to a long and happy life ( PDFDrive ).pdf](https://github.com/mattoorahul/Reading-List/files/10922329/Ikigai._.the.Japanese.secret.to.a.long.and.happy.life.PDFDrive.pdf)
 
 12. The Psychology of Money <br>
 [the-psychology-of-money-by-morgan-housel.pdf](https://github.com/mattoorahul/Reading-List/files/10922357/the-psychology-of-money-by-morgan-housel.pdf)
 
-13. The 7 Habits of Highly Effective People – Stephen R. Covey    [Must Read]<br>
+13. The 7 Habits of Highly Effective People – Stephen R. Covey    **[Must Read]**<br>
 [Covey - The 7 habits of highly effective people.pdf](https://github.com/user-attachments/files/19722747/Covey.-.The.7.habits.of.highly.effective.people.pdf)
 
-14. Rich Dad Poor Dad – Robert Kiyosaki    [Must Read]<br>
+14. Rich Dad Poor Dad – Robert Kiyosaki    **[Must Read]**<br>
 [Rich Dad Poor Dad.pdf](https://github.com/user-attachments/files/19722749/Rich.Dad.Poor.Dad.pdf)
 
 
