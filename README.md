@@ -44,5 +44,16 @@ Just trying to figure out a reading list. You can provide suggestions here.
 [Rich Dad Poor Dad.pdf](https://github.com/user-attachments/files/19722749/Rich.Dad.Poor.Dad.pdf)
 
 
+##Best sellers
+
+1. Getting Things Done by David Allen
+   [getting-things-done-david-allen LifeFeeling.pdf](https://github.com/user-attachments/files/19939275/getting-things-done-david-allen.LifeFeeling.pdf)
+
+2. Grit: The Power of Passion and Perseve
+   [C3_N17_GRIT_by_Angela_Duckworth.pdf](https://github.com/user-attachments/files/19939270/C3_N17_GRIT_by_Angela_Duckworth.pdf)
+rance
+   
+
+
 
 
