@@ -58,6 +58,10 @@ Just trying to figure out a reading list. You can provide suggestions here.
 4. So Good They Can't Ignore You <br>
    [Summary-of-SGTCIY-pdf.pdf](https://github.com/user-attachments/files/19940365/Summary-of-SGTCIY-pdf.pdf)
 
+5. Harvard Business Review Manager's handbook<br>
+   [The Harvard Business Review manager’s handbook - Harvard.pdf](https://github.com/user-attachments/files/19940408/The.Harvard.Business.Review.manager.s.handbook.-.Harvard.pdf)
+
+
 
 
    ![readingList](https://github.com/user-attachments/assets/6038b7f0-7f8b-4f38-8c6e-530a0a1164dc)
