@@ -53,6 +53,12 @@ Just trying to figure out a reading list. You can provide suggestions here.
    [C3_N17_GRIT_by_Angela_Duckworth.pdf](https://github.com/user-attachments/files/19939270/C3_N17_GRIT_by_Angela_Duckworth.pdf)
 
 
+
+
+   ![readingList](https://github.com/user-attachments/assets/6038b7f0-7f8b-4f38-8c6e-530a0a1164dc)
+
+
+
    
 
 
