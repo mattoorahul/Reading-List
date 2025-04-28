@@ -52,10 +52,10 @@ Just trying to figure out a reading list. You can provide suggestions here.
 2. Grit: The Power of Passion and Perseve <br>
    [C3_N17_GRIT_by_Angela_Duckworth.pdf](https://github.com/user-attachments/files/19939270/C3_N17_GRIT_by_Angela_Duckworth.pdf)
 
-3. High Output Management
+3. High Output Management <br>
    [High Output Management - Andrew Grove.pdf](https://github.com/user-attachments/files/19940356/High.Output.Management.-.Andrew.Grove.pdf)
 
-4. So Good They Can't Ignore You
+4. So Good They Can't Ignore You <br>
    [Summary-of-SGTCIY-pdf.pdf](https://github.com/user-attachments/files/19940365/Summary-of-SGTCIY-pdf.pdf)
 
 
