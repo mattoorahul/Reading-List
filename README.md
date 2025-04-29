@@ -61,6 +61,15 @@ Just trying to figure out a reading list. You can provide suggestions here.
 5. Harvard Business Review Manager's handbook<br>
    [The Harvard Business Review manager’s handbook - Harvard.pdf](https://github.com/user-attachments/files/19940408/The.Harvard.Business.Review.manager.s.handbook.-.Harvard.pdf)
 
+6. Thinking in Systems: A Primer
+   [meadows.pdf](https://github.com/user-attachments/files/19952158/meadows.pdf)
+
+7. Measure What Matters
+   [Measure-What-Matters-John-Doerr.pdf](https://github.com/user-attachments/files/19952163/Measure-What-Matters-John-Doerr.pdf)
+
+8. The Pyramid Principle: Logic in Writing and Thinking
+   
+
 
 
 
