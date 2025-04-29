@@ -68,7 +68,15 @@ Just trying to figure out a reading list. You can provide suggestions here.
    [Measure-What-Matters-John-Doerr.pdf](https://github.com/user-attachments/files/19952163/Measure-What-Matters-John-Doerr.pdf)
 
 8. The Pyramid Principle: Logic in Writing and Thinking by Barbara Minto <br>
-   
+
+9. On Writing Wel: The Classic Guide to Writing Nonfiction <br>
+   [on-writing-well.pdf](https://github.com/user-attachments/files/19952221/on-writing-well.pdf)
+
+10. ON WRITING <br>
+   [On Writing_ A Memoir of the Craft - Stephen King.pdf](https://github.com/user-attachments/files/19952234/On.Writing_.A.Memoir.of.the.Craft.-.Stephen.King.pdf)
+
+11. <br>
+
 
 
 
