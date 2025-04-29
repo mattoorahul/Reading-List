@@ -75,13 +75,6 @@ Just trying to figure out a reading list. You can provide suggestions here.
 10. ON WRITING <br>
    [On Writing_ A Memoir of the Craft - Stephen King.pdf](https://github.com/user-attachments/files/19952234/On.Writing_.A.Memoir.of.the.Craft.-.Stephen.King.pdf)
 
-11. <br>
-
-
-
-
-
-   ![readingList](https://github.com/user-attachments/assets/6038b7f0-7f8b-4f38-8c6e-530a0a1164dc)
 
 
 
