@@ -48,7 +48,7 @@ I always update this list when I find interesting reading materials.
 
 8. The Pyramid Principle: Logic in Writing and Thinking by Barbara Minto <br>
 
-9. On Writing Wel: The Classic Guide to Writing Nonfiction <br>
+9. On Writing Well: The Classic Guide to Writing Nonfiction <br>
    [on-writing-well.pdf](https://github.com/user-attachments/files/19952221/on-writing-well.pdf)
 
 10. ON WRITING <br>
