@@ -57,7 +57,8 @@ I always update this list when I find interesting reading materials.
 ## Coding Principles
 
 1. Clean Code by Robert C. Martin <br>
-   
+   [Clean.Code.A.Handbook.of.Agile.Software.Craftsmanship.pdf](https://github.com/user-attachments/files/20266139/Clean.Code.A.Handbook.of.Agile.Software.Craftsmanship.pdf)
+
 
 
 
