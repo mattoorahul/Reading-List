@@ -54,6 +54,10 @@ I always update this list when I find interesting reading materials.
 10. ON WRITING <br>
    [On Writing_ A Memoir of the Craft - Stephen King.pdf](https://github.com/user-attachments/files/19952234/On.Writing_.A.Memoir.of.the.Craft.-.Stephen.King.pdf)
 
+# Coding Principles
+
+1. Clean Code by Robert C. Martin <br>
+   
 
 
 
