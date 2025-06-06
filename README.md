@@ -63,7 +63,9 @@ I always update this list when I find interesting reading materials.
    [The Pragmatic Programmer ( PDFDrive ).pdf](https://github.com/user-attachments/files/20266151/The.Pragmatic.Programmer.PDFDrive.pdf)
 
 3. Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems by Martin Kleppmann<br>
-   
+
+4. Python cheatsheet
+   [A complete reference for a python beginner.pdf](https://github.com/user-attachments/files/20633319/A.complete.reference.for.a.python.beginner.pdf)
 
 
 
